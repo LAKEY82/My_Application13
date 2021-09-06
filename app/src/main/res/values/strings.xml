@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FoodMart</string>
+    <string name="search">Search </string>
+    <string name="vegitables">Vegitables</string>
+    <string name="frt">Fruits</string>
+    <string name="meat">Fruits</string>
+</resources>
